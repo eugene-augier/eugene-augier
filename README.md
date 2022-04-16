@@ -1,4 +1,4 @@
-Hi, I’m Eugene d'Augier
+Hi, I’m Eugène d'Augier
 
 I mainly develop in PHP but I also love Javascript and C/C++
 
