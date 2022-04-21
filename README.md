@@ -1,7 +1,5 @@
-Hi, I’m Eugène d'Augier
+Hi, I’m Eugène d'Augier 👋
 
-I mainly develop in PHP but I also love Javascript and C/C++
-
-I am passionate about clean architecture, parsing and interpretation of programming languages.
-
-📫 eugene.augier@gmail.com
+##### Languages I use: PHP, Javascript, C/C++
+##### Software engineering topics I love: software architecture, parsing & interpretation of programming languages
+##### 📫 eugene.augier@gmail.com
